@@ -17,13 +17,10 @@ This app is a demonstration of how Streamlit can be used to build user-friendly 
 ### Getting Started
 1. **Clone the Repository**: Start by cloning the repository to your local machine.
     ```bash
-    git clone https://github.com/yourusername/your-repository.git
+    [git clone https://github.com/yourusername/your-repository.git](https://github.com/GovindGs29/Symphonica-App-Demo-Stream-Lit.git)
     ```
 2. **Install Dependencies**: Navigate to the project directory and install the required dependencies.
-    ```bash
-    cd your-repository
-    pip install -r requirements.txt
-    ```
+
 3. **Run the App**: Launch the Streamlit app on your local server.
     ```bash
     streamlit run app.py
@@ -36,7 +33,7 @@ I welcome contributions to this project! Whether you want to add new features, f
 If you have any questions, issues, or suggestions, please don't hesitate to contact me. I'm here to help and collaborate with fellow developers. You can reach out via:
 - **Email**: saamysg@gmail.com
 - **GitHub Issues**: Open an issue in this repository
-- **Social Media**: Follow me on Twitter [@saamysg]
+- **Social Media**: Follow me on Twitter [@saamysg] LinkedIn - https://www.linkedin.com/in/29govindgs/
 
 ### License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as per the license terms.
