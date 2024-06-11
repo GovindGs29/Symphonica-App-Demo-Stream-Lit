@@ -3,6 +3,34 @@ Hi, this is my version of an app built using Streamlit. I have uploaded it for u
 
 Hi GitHub Community,
 
+### Update Summary
+Ver 1.10 :
+
+Sure, here's a README file in GitHub Markdown format with bold headers and bullet points:
+
+# User Data Management System
+
+**User Data Management**: The `load_user_data` and `save_user_data` functions manage user data stored in a YAML file.
+
+**Password Hashing**:
+- The `hash_password` function handles password hashing.
+- The `verify_password` function verifies passwords against the stored hashes.
+
+**User Data Retrieval**: The `get_user_data` function retrieves user-specific data.
+
+**User Creation**: The `create_new_user` function allows the creation of new users, initializing their data.
+
+**Login Page**: The `display_login_page` function handles the login interface, allowing users to:
+- Log in with existing credentials
+- Create a new account
+
+**Multi-Tenancy**: The app ensures that each user sees only their specific data after logging in.
+
+**Grid Options**:
+- The `AgGrid` library is used to display data frames in an interactive grid format.
+- The `GridOptionsBuilder` class is used to configure the grid options.
+
+
 Welcome to my Streamlit app repository! This project is designed for users to freely edit and manage content, showcasing the capabilities of Streamlit for creating interactive and dynamic web applications.
 
 ### About the Project
