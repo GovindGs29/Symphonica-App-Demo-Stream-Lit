@@ -1,0 +1,15 @@
+credentials:
+  usernames:
+    jsmith:
+      name: John Smith
+      password: "pbkdf2:sha256:150000$KIMRD4Av$cc6f2e1bc6f6f7fa1562f0d14f8c3434" # Example hashed password
+    rdoe:
+      name: Rebecca Doe
+      password: "pbkdf2:sha256:150000$3Ndf2k3F$63ad8c645fdb9e21f41d2e9e72fa3d63" # Example hashed password
+cookie:
+  name: streamlit_auth
+  key: some_random_key
+  expiry_days: 30
+preauthorized:
+  emails:
+    - your_email@example.com
